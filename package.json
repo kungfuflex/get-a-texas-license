@@ -1,0 +1,10 @@
+{
+  "name": "get-a-texas-license",
+  "version": "0.1.0",
+  "description": "scripts to help automate online driver's education requirements for the state of Texas",
+  "main": "index.js",
+  "repository": "https://github.com/kungfuflex/get-a-texas-license",
+  "author": "flex",
+  "license": "MIT",
+  "private": false
+}
